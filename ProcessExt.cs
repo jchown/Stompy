@@ -39,6 +39,10 @@ namespace Stompy
             {
                 return GetParentProcess(process.Handle);
             }
+            catch (Win32Exception)
+            {
+                return null;
+            }
             catch (InvalidOperationException)
             {
                 return null;
