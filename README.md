@@ -23,4 +23,10 @@ Looking for rogue Kotlin compile processes...
 05/02/2021 10:13:22: Killing PID 36292
 ```
 
-This made working in IntelliJ less excrutiating.
+This has made working in IntelliJ a little less excruciating.
+
+### Credits
+
+Minimal code by Jason Chown, the only clever bit was copied from Stack Overflow.
+<p>
+Icon by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>  
